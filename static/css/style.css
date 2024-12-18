@@ -83,3 +83,10 @@ body {
     height: 50px;
     width: auto;
 }
+
+.support-operations{
+    font-size: 12px;
+    font-weight: normal;
+    color: #cccccc;
+    line-height: 20px;
+}
